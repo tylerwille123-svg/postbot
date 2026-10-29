@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Talk to a Telegram bot, it writes your social posts with Claude and publishes them through Zernio.",
   "license": "MIT",
-  "author": "Wompel (https://wompelproducts.ai)",
+  "author": "Wompel (https://wompelproducts.com)",
   "type": "module",
   "engines": {
     "node": ">=22.13"

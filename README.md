@@ -131,8 +131,8 @@ npm run typecheck
 
 ## License
 
-MIT © [Wompel](https://wompelproducts.ai)
+MIT © [Wompel](https://wompelproducts.com)
 
 ---
 
-**Want this run for you?** Wompel builds and runs AI social agents for businesses, from strategy and content to posting and weekly reports. [wompelproducts.ai](https://wompelproducts.ai)
+**Want this run for you?** Wompel builds and runs AI social agents for businesses, from strategy and content to posting and weekly reports. [wompelproducts.com](https://wompelproducts.com)

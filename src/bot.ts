@@ -26,7 +26,7 @@ Try: <i>"Post this to Instagram and TikTok, something about our new fall menu"</
 /voice – view or replace your brand voice
 /new – start over
 
-Want this run for you? wompelproducts.ai`;
+Want this run for you? wompelproducts.com`;
 
 export function createBot(store: Store) {
   const bot = new Bot(config.telegramToken);
